@@ -12,4 +12,6 @@ Our team ended up placing second overall.
 Developed scalable backend using django with a structured database and handled the entire backend of the implementation.
 
 
- 
+ ## To run:
+
+Aftee downloading dependencies, to run, download folder and go to directory containing manage.py in cmd, then 'manage.py runserver' .
