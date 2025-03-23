@@ -9,7 +9,7 @@ Our team ended up placing second overall.
 
 ## My role:
 
-Developed scalable backend using django with a structured database and handled the entire backend of the implementation.
+Developed scalable, user-friendly backend using django with a structured database and handled the entire backend of the implementation.
 
 
  ## To run:
